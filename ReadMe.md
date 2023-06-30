@@ -1,8 +1,8 @@
-# 📤 Welcomer Bot infrastructure
-- Hello Users, We are giving you a free welcomer bot infrastructure.
+# 📤 Account Security Bot infrastructure
+- Hello Users, We are giving you a free Account Security bot infrastructure.
 
 ## 🎈 infrastructure Features
-- Welcomes the users who join the server with a picture.
+- When someone comes to the server, it shows whether the account entering the server is safe or not.
   
 ## ✍ installation steps
  1. First you have to type **npm install**.
