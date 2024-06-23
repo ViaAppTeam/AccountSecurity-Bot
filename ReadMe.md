@@ -1,4 +1,4 @@
-# 📤 Account Security Bot infrastructure
+# 📤 Account Security Bot Template
 - Hello Users, We are giving you a free Account Security bot infrastructure.
 
 ## 🎈 infrastructure Features
