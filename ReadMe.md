@@ -1,7 +1,7 @@
-# 📤 Account Security Bot Template
-- Hello Users, We are giving you a free Account Security bot infrastructure.
+# 📤 Account Security Bot
+- Hello Users, We are giving you a free Account Security bot.
 
-## 🎈 infrastructure Features
+## 🎈 Bot Features
 - When someone comes to the server, it shows whether the account entering the server is safe or not.
   
 ## ✍ installation steps
